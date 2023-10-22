@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @w0rldk1ll-py
-- 👀 I’m interested: python, graphics, Web development
-- 🌱 I’m currently learning: python, css
+- 👀 I’m interested: python, 3D modeling
+- 🌱 I’m currently learning: python
 - 📫 How to reach me: ds:outbreak21 tg: @w0rldk1ll email: thyriumhtml@gmail.com
